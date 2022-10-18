@@ -1,1 +1,1 @@
-Learning how to code
+Learning how to code and having fun
