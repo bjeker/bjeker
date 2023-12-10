@@ -1,1 +1,1 @@
-Learning how to code and having fun
+Yo! Welcome to my code
