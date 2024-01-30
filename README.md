@@ -3,4 +3,4 @@
 - Coding in C++, C#, Python, Java, and more
 - Web development in HTML, CSS, and Javascript
 - Personal Website <a href="https://bjeker.github.io/ryan-bieker/">Here</a>
-- Fan website of Death Note <a href="https://bjeker.github.io/SaviorKira/index.html">Savior Kira</a>
+- Fan website of Death Note <a href="https://bjeker.github.io/SaviorKira/">Savior Kira</a>
