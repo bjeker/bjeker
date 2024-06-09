@@ -1,6 +1,6 @@
 ### Yo! Welcome to my code
-- Learning Godot Game Engine, Unreal Engine 5, Blender, and Scripting
-- Coding in C++, C#, Python, Java, and more
+- Learning Unreal Engine 5 and Blender.
+- Coding in C++, C#, Python, Java
 - Web development in HTML, CSS, and Javascript
 - Personal Website <a href="https://bjeker.github.io/ryan-bieker/">Here</a>
 - Fan website of Death Note <a href="https://bjeker.github.io/savior-kira/">Savior Kira</a>
