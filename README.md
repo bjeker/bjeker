@@ -1,7 +1,7 @@
 ### Yo! Welcome to my code
+- Developing in C++, C#, C, Java, and Python
 - Unreal Engine 5 and Blender
-- Developing in C++, C#, Java, Python
-- Web development in HTML, CSS, and Javascript
+- Web development in JavaScript, HTML, and CSS
 - Personal Website <a href="https://bjeker.github.io/ryan-bieker/">ryanbieker.com</a>
 - Fan website of Death Note <a href="https://bjeker.github.io/savior-kira/">Savior Kira</a>
 <p align="center">
