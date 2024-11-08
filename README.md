@@ -6,6 +6,6 @@
 - Fan website of Death Note <a href="https://bjeker.github.io/savior-kira/">Savior Kira</a>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,py,html,css,js,unreal,blender,git" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,py,js,react,html,css,unreal,blender,git" />
   </a>
 </p>
