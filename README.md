@@ -3,6 +3,7 @@
 - Unreal Engine 5 and Blender
 - Web development in JavaScript, TypeScript, HTML, and CSS
 - Personal Website <a href="https://bjeker.github.io/ryan-bieker/">ryanbieker.com</a>
+- Itch.io Profile <a href="https://bjeker.itch.io/">bjeker.itch.io</a>
 - Fan website of Death Note <a href="https://bjeker.github.io/savior-kira/">Savior Kira</a>
 <p align="center">
   <a href="https://skillicons.dev">
