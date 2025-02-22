@@ -7,6 +7,6 @@
 - Itch.io Profile <a href="https://bjeker.itch.io/" target="_blank">bjeker.itch.io</a>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,py,js,ts,html,css,unreal,blender,git" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,py,unreal,blender,git,js,ts,html,css" />
   </a>
 </p>
