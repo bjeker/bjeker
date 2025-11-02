@@ -1,5 +1,5 @@
 ### Yo! Welcome to my code
-- Developing in C++, C#, C, Java, and Python
+- Developing in C++, C#, and Java
 - Unreal Engine 5 and Blender
 - I use Azure DevOps for code with Unreal Engine 5, so a lot of my repos for games are there
 - Web development in JavaScript, TypeScript, HTML, and CSS
